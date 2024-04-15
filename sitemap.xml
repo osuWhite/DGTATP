@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://atpsucks.com/</loc>
+        <lastmod>2024-04-14</lastmod>  <!-- Use the last modification date of your site -->
+        <changefreq>monthly</changefreq>  <!-- Change this based on how often your site content updates -->
+        <priority>1.0</priority>  <!-- This is the highest priority since it's your main and only URL -->
+    </url>
+</urlset>
